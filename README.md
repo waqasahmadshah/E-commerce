@@ -1,2 +1,3 @@
 # E-commerce
-E-commerce project
+# E-commerce project
+# adding Css style in index file
